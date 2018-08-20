@@ -505,7 +505,7 @@ td,th{padding:0}
 .kratos-overlay{position:absolute!important;width:100%;top:0;left:0;bottom:0;right:0;z-index:1;background:rgba(66,64,64,.2)}
 .kratos-cover{background-size:cover;position:relative;background-position:center center}
 .kratos-cover .btn{padding:1em 5em;opacity:.9}
-.kratos-cover.kratos-cover_2{height:320px}
+.kratos-cover.kratos-cover_2{height:300px}
 .kratos-cover .desc{top:50%;position:absolute;width:100%;margin-top:-50px;z-index:2;color:#fff;text-shadow:2px 2px 2px #666}
 .kratos-cover .desc h2{color:#fff;text-transform:none;font-size:40px;margin-bottom:10px;display:inline-block}
 .kratos-cover .desc p,.kratos-cover .desc span{color:#fff;margin-bottom:30px;font-size:25px;letter-spacing:1px;display:inline-block}
@@ -808,7 +808,7 @@ h4{font-size:15px}
 .kratos-cover{height:inherit;padding:3em 0}
 .kratos-start{height:45px!important}
 #kratos-header-section{background:#16171a}
-#kratos-blog-post{padding:288px 0}
+#kratos-blog-post{padding:268px 0}
 article .kratos-hentry.kratos-post-inner,.comments-area,.post-navigation{margin-left:-15px;margin-right:-15px}
 .kratos-post-meta span{font-size:9pt}
 .kratos-post-meta span i:not(:first-child){margin-left:5px}
