@@ -512,7 +512,7 @@ td,th{padding:0}
 .kratos-cover .desc span a{color:#fff}
 .kratos-cover .desc span a:focus,.kratos-cover .desc span a:hover{color:#fff!important}
 .kratos-cover .desc span a:focus.btn,.kratos-cover .desc span a:hover.btn{border:2px solid #fff!important;background:0 0!important}
-#kratos-blog-post{padding:288px 0}
+#kratos-blog-post{padding:20px 0}
 #kratos-blog-post .aligncenter{margin-left:auto;margin-right:auto}
 #kratos-blog-post p .aligncenter{display:block}
 #kratos-blog-post .alignleft{float:left}
@@ -808,6 +808,7 @@ h4{font-size:15px}
 .kratos-cover{height:inherit;padding:3em 0}
 .kratos-start{height:45px!important}
 #kratos-header-section{background:#16171a}
+#kratos-blog-post{padding:288px 0}
 article .kratos-hentry.kratos-post-inner,.comments-area,.post-navigation{margin-left:-15px;margin-right:-15px}
 .kratos-post-meta span{font-size:9pt}
 .kratos-post-meta span i:not(:first-child){margin-left:5px}
