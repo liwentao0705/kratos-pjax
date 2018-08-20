@@ -501,7 +501,7 @@ td,th{padding:0}
 #kratos-menu-wrap{float:left}
 #kratos-menu-wrap .sf-menu a{color:#fff;padding:7px 16px;font-weight:400;font-size:15px;border:none;display:block;position:relative}
 .kratos-cover,.kratos-start{position:relative;height:800px}
-.kratos-cover.kratos-hero-2,.kratos-start.kratos-hero-2{height:320px}
+.kratos-cover.kratos-hero-2,.kratos-start.kratos-hero-2{height:300px}
 .kratos-overlay{position:absolute!important;width:100%;top:0;left:0;bottom:0;right:0;z-index:1;background:rgba(66,64,64,.2)}
 .kratos-cover{background-size:cover;position:relative;background-position:center center}
 .kratos-cover .btn{padding:1em 5em;opacity:.9}
