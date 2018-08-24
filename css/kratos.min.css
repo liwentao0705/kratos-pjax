@@ -22,7 +22,7 @@
 :after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 ::-webkit-selection{color:#fcfcfc;background:#262a30}::-moz-selection{color:#fcfcfc;background:#262a30}::selection{color:#fcfcfc;background:#262a30}
 body::-webkit-scrollbar{width:10px}body::-webkit-scrollbar-thumb{background:#bbb}::-webkit-scrollbar-thumb:hover{background:#aaa}
-body{font-family:-apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;line-height:1.8;font-size:16px;background:#f5f5f5;color:#848484;font-weight:300;cursor:url(../images/cursor.cur),default;overflow-x:hidden;margin:0}
+body{font-family:-apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;line-height:1.8;font-size:16px;background:#f5f5f5;color:#848484;font-weight:300;overflow-x:hidden;margin:0}
 a{color:#51aded;text-decoration:none;-webkit-transition:.5s;transition:.5s}
 a:focus{outline:0;text-decoration:none}
 abbr[data-original-title],abbr[title]{cursor:help;border-bottom:1px dotted #777}
@@ -157,7 +157,7 @@ td,th{padding:0}
 .aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}
 .aplayer .aplayer-pic .aplayer-pause svg{position:absolute;top:2px;left:2px;height:12px;width:12px}
 .aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;box-sizing:border-box}
-.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin:0 0 13px 5px;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;cursor:url(../images/cursor.cur),default;padding-bottom:2px;height:20px}
+.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin:0 0 13px 5px;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;padding-bottom:2px;height:20px}
 .aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}
 .aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}
 .aplayer .aplayer-info .aplayer-controller{position:relative;display:flex}
@@ -189,7 +189,7 @@ td,th{padding:0}
 .aplayer .aplayer-lrc p{font-size:12px!important;color:#666!important;line-height:16px!important;height:16px!important;padding:0!important;margin:0!important;transition:all .5s ease-out;opacity:.4;overflow:hidden}
 .aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1;overflow:visible;height:auto!important;min-height:16px}
 .aplayer .aplayer-lrc.aplayer-lrc-hide{display:none}
-.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;transition:all .5s ease-out;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;cursor:url(../images/cursor.cur),default}
+.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;transition:all .5s ease-out;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text
 .aplayer .aplayer-list{overflow:auto;transition:all .5s ease;will-change:height;display:none;overflow:hidden}
 .aplayer .aplayer-list.aplayer-list-hide{max-height:0!important}
 .aplayer .aplayer-list ol{list-style-type:none;margin:0;padding:0;overflow-y:auto}
